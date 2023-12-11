@@ -33,7 +33,7 @@ export function Home() {
 	);
 }
 
-function ScaleIcon(props) {
+function ScaleIcon(props: any) {
 	return (
 		<svg
 			{...props}
